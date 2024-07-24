@@ -65,7 +65,7 @@ namespace ManoPrograma
             //parkas.RemoveAutomobilis("Ford", "Sierra");
             //Console.WriteLine("Ford Sierra removed");
 
-            //Console.WriteLine("Bendra automobiliu rida be seniausio automobilio: " + parkas.TotalRida());
+            //Console.WriteLine("Bendra automobiliu rida be Ford Sierra automobilio: " + parkas.TotalRida());
         }
     }
 }
